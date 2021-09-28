@@ -33,7 +33,7 @@ public class Case {
         return flavors;
     }
 
-    public ArrayList<Cone> getCones() {
+    public ArrayList<org.launchcode.java.demos.lsn7interfaces.Cone> getCones() {
         return cones;
     }
 
